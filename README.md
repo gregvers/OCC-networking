@@ -1,5 +1,8 @@
-# OCM-networking
+# OCC-NetworkDiagrams
 
-draw.io network diagrams for Oracle Cloud at Customer (OCM & ExaCM).
+Oracle Cloud at Customer Network diagrams
 
-open the xml file with http://draw-io
+Network diagrams for Oracle Cloud at Customer (OCC & ECC).
+includes:
+- xml files, open them with http://draw-io 
+- PNG files, open them with any photo viewer
